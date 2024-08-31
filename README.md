@@ -1,1 +1,1 @@
-# Exercise using list in java
+# Exercise using enum in java
